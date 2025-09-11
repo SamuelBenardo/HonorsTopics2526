@@ -47,6 +47,4 @@ public class MyFileWriter {
             e.printStackTrace();
         }
     }
-
-    // Sam u need to finish this. This is the change.
 }
